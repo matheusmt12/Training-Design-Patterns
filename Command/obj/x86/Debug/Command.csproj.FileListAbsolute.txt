@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\bin\Debug\Command.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\bin\Debug\Command.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\bin\Debug\Command.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\obj\x86\Debug\Command.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\obj\x86\Debug\Command.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\obj\x86\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\obj\x86\Debug\Command.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Command\obj\x86\Debug\Command.pdb

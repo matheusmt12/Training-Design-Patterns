@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\bin\Debug\Visitor.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\bin\Debug\Visitor.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.pdb

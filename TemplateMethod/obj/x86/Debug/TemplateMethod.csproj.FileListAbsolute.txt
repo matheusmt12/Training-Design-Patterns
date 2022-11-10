@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb

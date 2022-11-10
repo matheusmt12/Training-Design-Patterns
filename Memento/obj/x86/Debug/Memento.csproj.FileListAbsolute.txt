@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\bin\Debug\Memento.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\bin\Debug\Memento.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\bin\Debug\Memento.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.pdb

@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\bin\Debug\Strategy.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\bin\Debug\Strategy.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.pdb

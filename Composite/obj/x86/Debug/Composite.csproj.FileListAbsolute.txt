@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\bin\Debug\Composite.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\bin\Debug\Composite.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\bin\Debug\Composite.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.pdb

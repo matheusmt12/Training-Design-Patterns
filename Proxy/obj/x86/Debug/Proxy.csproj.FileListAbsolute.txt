@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\bin\Debug\Proxy.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\bin\Debug\Proxy.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.pdb

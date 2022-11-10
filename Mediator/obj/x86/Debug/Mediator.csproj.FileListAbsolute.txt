@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\bin\Debug\Mediator.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\bin\Debug\Mediator.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.pdb

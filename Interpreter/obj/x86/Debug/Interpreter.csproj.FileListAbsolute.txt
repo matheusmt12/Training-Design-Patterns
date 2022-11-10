@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.pdb

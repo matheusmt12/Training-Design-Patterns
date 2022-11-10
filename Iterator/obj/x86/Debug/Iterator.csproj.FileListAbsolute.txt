@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\bin\Debug\Iterator.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\bin\Debug\Iterator.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.pdb

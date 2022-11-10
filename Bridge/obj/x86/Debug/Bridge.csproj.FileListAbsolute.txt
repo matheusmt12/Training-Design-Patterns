@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\bin\Debug\Bridge.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\bin\Debug\Bridge.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.pdb

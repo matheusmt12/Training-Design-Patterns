@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.pdb

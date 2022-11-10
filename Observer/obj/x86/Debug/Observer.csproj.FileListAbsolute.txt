@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\bin\Debug\Observer.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\bin\Debug\Observer.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\bin\Debug\Observer.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.pdb

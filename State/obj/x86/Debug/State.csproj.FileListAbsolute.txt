@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\bin\Debug\State.exe.config
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\bin\Debug\State.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\bin\Debug\State.pdb
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.exe
+C:\Users\mathe\Downloads\PadroesProjeto c#\State\obj\x86\Debug\State.pdb
